@@ -1,0 +1,27 @@
+spring:
+  datasource:
+    username: root
+    password: 1946159632
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/defect_detection?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+  main:
+    banner-mode: off
+server:
+  port: 8081
+  tomcat:
+    max-http-response-header-size: "16KB"
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      logic-delete-field: is_deleted
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+#  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+logging:
+  level:
+    org:
+      springframework: INFO

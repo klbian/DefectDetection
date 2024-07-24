@@ -1,0 +1,25 @@
+# 界面相关的配置信息
+maininterface:
+  test: true
+  title: 精密铜元件缺陷检测系统
+  size:
+    width: 1800
+    height: 1000
+  location:
+    x: 5
+    y: 5
+leftinterface:
+  name: 状态与输出界面
+
+middleinterface:
+  name: 实时检测界面
+  charts-save-path: src/main/resources/charts/
+
+rightinterface:
+  name: 操作与设备界面
+
+
+loadtest:
+  test-1: true
+  level-2:
+    test-2: true

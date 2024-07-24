@@ -1,0 +1,690 @@
+{
+  "code": "200",
+  "message": "获取成功",
+  "data": [
+    {
+      "id": "1",
+      "name": "1",
+      "time": "2024-02-18 00:00:01",
+      "workOrderNumber": 1,
+      "defectionsSum": 1
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "time": "2024-02-18 00:00:02",
+      "workOrderNumber": 2,
+      "defectionsSum": 2
+    },
+    {
+      "id": "3",
+      "name": "3",
+      "time": "2024-02-18 00:00:03",
+      "workOrderNumber": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8640",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "name": "3",
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8641",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    },
+    {
+      "id": "8642",
+      "page": 1,
+      "pageSize": 10,
+      "dataRange": [
+        1,
+        2
+      ],
+      "time": "2024-02-18 00:00:03",
+      "workOrderId": 3,
+      "defectionsSum": 3
+    }
+
+  ],
+  "data1": [
+    {
+      "id": "1",
+      "name": "1",
+      "time": "2024-02-18 00:00:00",
+      "workOrderNumber": 1,
+      "defectionsSum": 1,
+      "defections": [
+        {
+          "score": 0.01,
+          "l": 0.01,
+          "h": 0.01,
+          "x": 0.01,
+          "y": 0.01,
+          "category": "裂缝1",
+          "categoryId": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "time": "2024-02-18 00:00:00",
+      "workOrderNumber": 2,
+      "defectionsSum": 2,
+      "defections": [
+        {
+          "score": 0.02,
+          "l": 0.02,
+          "h": 0.02,
+          "x": 0.02,
+          "y": 0.02,
+          "category": "裂缝2",
+          "categoryId": 2
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "3",
+      "time": "2024-02-18 00:00:00",
+      "workOrderNumber": 3,
+      "defectionsSum": 3,
+      "defections": [
+        {
+          "score": 0.03,
+          "l": 0.03,
+          "h": 0.03,
+          "x": 0.03,
+          "y": 0.03,
+          "category": "裂缝3",
+          "categoryId": 3
+        }
+      ]
+    },
+    {
+      "id": "8640",
+      "name": "4",
+      "time": "2024-02-18 00:00:00",
+      "workOrderNumber": 3,
+      "defectionsSum": 3,
+      "defections": [
+        {
+          "score": 0.03,
+          "l": 0.03,
+          "h": 0.03,
+          "x": 0.03,
+          "y": 0.03,
+          "category": "裂缝4",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "id": "8641",
+      "name": "4",
+      "time": "2024-02-18 00:00:00",
+      "workOrderNumber": 3,
+      "defectionsSum": 3,
+      "defections": [
+        {
+          "score": 0.03,
+          "l": 0.03,
+          "h": 0.03,
+          "x": 0.03,
+          "y": 0.03,
+          "category": "裂缝4",
+          "categoryId": 4
+        }
+      ]
+    },
+    {
+      "id": "8642",
+      "name": "4",
+      "time": "2024-02-18 00:00:00",
+      "workOrderId": 3,
+      "defectionsSum": 3,
+      "defections": [
+        {
+          "score": 0.03,
+          "l": 0.03,
+          "h": 0.03,
+          "x": 0.03,
+          "y": 0.03,
+          "category": "裂缝4",
+          "categoryId": 4
+        }
+      ]
+    }
+  ],
+  "ssedata": [
+    {
+      "runtime": "02:30:45",
+      "defectRate": "5%",
+      "totalDefects": "10",
+      "highestDefect": "缺陷1",
+      "latestOperation": "操作A",
+      "id": "7fc6"
+    }
+  ],
+  "charts": [
+    {
+      "name": "缺陷率随每-n个检测数量的折线图",
+      "type": "line",
+      "index": 1,
+      "source": {
+        "xAxisData": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "seriesData": [
+          20,
+          40,
+          10,
+          30,
+          50
+        ]
+      },
+      "id": "7e96"
+    },
+    {
+      "name": "每n个检测的缺陷率柱状图",
+      "type": "bar",
+      "index": 2,
+      "source": {
+        "xAxisData": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "seriesData": [
+          10,
+          20,
+          30,
+          40,
+          50
+        ]
+      },
+      "id": "3630"
+    },
+    {
+      "name": "各类缺陷总数的占比环状图",
+      "type": "pie",
+      "index": 3,
+      "source": {
+        "legendData": [
+          "类型1",
+          "类型2",
+          "类型3"
+        ],
+        "seriesData": [
+          {
+            "name": "类型1",
+            "value": 335
+          },
+          {
+            "name": "类型2",
+            "value": 310
+          },
+          {
+            "name": "类型3",
+            "value": 234
+          }
+        ]
+      },
+      "id": "c27b"
+    },
+    {
+      "name": "系统运行热力图",
+      "type": "heatmap",
+      "index": 4,
+      "source": {
+        "xAxisData": [
+          "周一",
+          "周二",
+          "周三",
+          "周四",
+          "周五"
+        ],
+        "yAxisData": [
+          "早班",
+          "中班",
+          "晚班"
+        ],
+        "seriesData": [
+          [
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            1,
+            20
+          ],
+          [
+            0,
+            2,
+            30
+          ],
+          [
+            1,
+            0,
+            40
+          ],
+          [
+            1,
+            1,
+            50
+          ],
+          [
+            1,
+            2,
+            60
+          ],
+          [
+            2,
+            0,
+            70
+          ],
+          [
+            2,
+            1,
+            80
+          ]
+        ]
+      },
+      "id": "410c"
+    },
+    {
+      "name": "各类缺陷的占比随时间的变化趋势曲线度",
+      "type": "line",
+      "index": 5,
+      "source": {
+        "xAxisData": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May"
+        ],
+        "seriesData": [
+          220,
+          182,
+          191,
+          234,
+          290
+        ]
+      },
+      "id": "5ed3"
+    },
+    {
+      "name": "各类缺陷的实时数量柱状图",
+      "type": "bar",
+      "index": 6,
+      "source": {
+        "xAxisData": [
+          "类型1",
+          "类型2",
+          "类型3",
+          "类型4",
+          "类型5"
+        ],
+        "seriesData": [
+          220,
+          182,
+          191,
+          234,
+          290
+        ]
+      },
+      "id": "53c3"
+    }
+  ],
+  "warningdata": {
+    "warningsSum": 100,
+    "24hourWarningsSum": 20,
+    "warningsOpen": true,
+    "warningLevel": [
+      1,
+      2,
+      3
+    ],
+    "phoneWay": true,
+    "emailWay": false,
+    "phone": "123-456-7890",
+    "email": "example@example.com",
+    "warnings": [
+      {
+        "name": "Warning 1",
+        "level": 1,
+        "time": "2024-02-26T08:00:00.000Z",
+        "content": "This is warning content 1"
+      },
+      {
+        "name": "Warning 2",
+        "level": 2,
+        "time": "2024-02-26T09:30:00.000Z",
+        "content": "This is warning content 2"
+      },
+      {
+        "name": "Warning 3",
+        "level": 3,
+        "time": "2024-02-26T10:45:00.000Z",
+        "content": "This is warning content 3"
+      }
+    ],
+    "barChart": {
+      "name": "Emergency Level Distribution",
+      "type": "bar",
+      "index": 1,
+      "source": {
+        "title": {
+          "text": "Emergency Level Distribution"
+        },
+        "tooltip": {},
+        "xAxis": {
+          "data": [
+            "High",
+            "Medium",
+            "Low"
+          ]
+        },
+        "yAxis": {
+          "name": "Number"
+        },
+        "series": [
+          {
+            "name": "Emergency Level Distribution",
+            "type": "bar",
+            "data": [
+              30,
+              50,
+              20
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "logData": [
+    {
+      "mainRole": "主体1",
+      "label": "工号005",
+      "op": "修改仪器设备信息",
+      "time": "2024-02-17 00:00:00",
+      "id": "a89e"
+    },
+    {
+      "mainRole": "主体2",
+      "label": "工号008",
+      "op": "修改仪器设备信息",
+      "time": "2024-02-17 00:00:00",
+      "id": "f583"
+    },
+    {
+      "mainRole": "主体3",
+      "label": "工号009",
+      "op": "修改仪器设备信息",
+      "time": "2024-02-17 00:00:00",
+      "id": "7706"
+    }
+  ],
+  "apimanagerData": [
+    {
+      "id": "87ec",
+      "apiKey": "1",
+      "validityPeriod": "1",
+      "validityTimes": "1",
+      "permissionLevel": "1",
+      "status": "启用",
+      "remark": "1",
+      "createName": "李四"
+    },
+    {
+      "id": "d185",
+      "apiKey": "2",
+      "validityPeriod": "2",
+      "validityTimes": "2",
+      "permissionLevel": "2",
+      "status": "禁用",
+      "remark": "2",
+      "createName": "李四"
+    },
+    {
+      "id": "8635",
+      "apiKey": "3",
+      "validityPeriod": "3",
+      "validityTimes": "3",
+      "permissionLevel": "3",
+      "status": "启用",
+      "remark": "3",
+      "createName": "李四"
+    },
+    {
+      "id": "691b"
+    },
+    {
+      "id": "5315"
+    },
+    {
+      "id": "9a92",
+      "num": 1,
+      "apiKey": "1",
+      "validityPeriod": "1",
+      "validityTimes": "1",
+      "permissionLevel": "1",
+      "status": "启用",
+      "remark": "1",
+      "createName": "admin"
+    }
+  ],
+  "operators": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "jobId": "A123",
+      "loginPwd": "password1",
+      "opPwd": "password2",
+      "showLoginPwd": false,
+      "showOpPwd": false,
+      "entryTime": "2022-01-01",
+      "remark": "Some remark"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "jobId": "B456",
+      "loginPwd": "password3",
+      "opPwd": "password4",
+      "showLoginPwd": false,
+      "showOpPwd": false,
+      "entryTime": "2023-03-15",
+      "remark": "Another remark"
+    }
+  ],
+  "loginData": [
+    {
+      "id": "1",
+      "password": "1",
+      "account": "1",
+      "name": "李德华",
+      "phoneNumber": "123-456-7890",
+      "email": "lidehua@example.com"
+    }
+  ],
+  "savePwd": [
+    {
+      "id": "1",
+      "password": "1",
+      "account": "1",
+      "name": "李德华",
+      "phoneNumber": "123-456-7890",
+      "email": "lidehua@example.com"
+    }
+  ]
+}

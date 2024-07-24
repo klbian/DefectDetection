@@ -1,0 +1,114 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationBarTextStyle": "white",
+				"navigationStyle": "custom",
+				"navigationBarBackgroundColor": "#104DA4"
+			}
+		},
+			{
+			"path": "pages/detect/detect",
+			"style": {
+				"navigationBarTitleText": "抽检",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#104DA4"
+			}
+		}
+        ,{
+            "path" : "pages/login/login",
+            "style" : {
+				"navigationBarTitleText": "登录",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#104DA4"
+			}
+        }
+        
+        ,{
+            "path" : "pages/detect/result",
+            "style" : {
+				"navigationBarTitleText": "检测结果",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#104DA4"
+				// "disableScroll": true
+			}
+        },{
+            "path" : "pages/mine/mine",
+            "style" : {
+				"navigationStyle": "custom",
+				"navigationBarBackgroundColor": "#104DA4"
+				// "disableScroll": true
+			}
+        },{
+        	"path" : "pages/data/data",
+        	"style" : 
+        	{
+        		"navigationBarTitleText": "检测数据",
+        		"navigationBarTextStyle": "white",
+        		"navigationBarBackgroundColor": "#104DA4"
+        	}
+        },
+        {
+        	"path" : "pages/history/history",
+        	"style" : 
+        	{
+        		"navigationBarTitleText": "检测历史",
+        		"navigationBarTextStyle": "white",
+        		"navigationBarBackgroundColor": "#104DA4"
+        	}
+        },
+        {
+        	"path" : "pages/warning/warning",
+        	"style" : 
+        	{
+        		"navigationBarTitleText": "警告记录",
+        		"navigationBarTextStyle": "white",
+        		"navigationBarBackgroundColor": "#104DA4"
+        	}
+        },
+		{
+			"path" : "pages/detect/checklog",
+			"style" : 
+			{
+				"navigationBarTitleText": "抽检记录",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#104DA4"
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#104DA4",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#919293",
+		"selectedColor": "#104DA4",
+		"backgroundColor": "#fff",
+		"borderStyle": "black",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"text": "首页",
+			"iconPath": "static/images/tabBar/index.png",
+			"selectedIconPath": "static/images/tabBar/index_selected.png"
+		}, {
+			"pagePath": "pages/data/data",
+			"text": "数据",
+			"iconPath": "static/images/tabBar/index.png",
+			"selectedIconPath": "static/images/tabBar/index_selected.png"
+		},{
+			"pagePath": "pages/detect/detect",
+			"text": "抽检",
+			"iconPath": "static/images/tabBar/take.png",
+			"selectedIconPath": "static/images/tabBar/take_selected.png"
+		}, {
+			"pagePath": "pages/mine/mine",
+			"text": "我的",
+			"iconPath": "static/images/tabBar/mine.png",
+			"selectedIconPath": "static/images/tabBar/mine_selected.png"
+		}]
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "id": 1,
+    "ip": "192.168.15.89",
+    "port": 8090,
+    "resStoragePath": "./detectPicture"
+  },
+  "charts": {
+    "granularity": 10
+  },
+  "warns": {
+    "continuousWorkingMinutesWarningLine": 3600,
+    "defectiveRateWarningLine": 1.0,
+    "waringInterval": 360
+  },
+  "running": {
+    "detectInterval": 5
+  }
+}
