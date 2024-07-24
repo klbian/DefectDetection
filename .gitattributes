@@ -1,6 +1,6 @@
 *.md linguist-language=Python 
 *.yml linguist-language=Python 
-*.html linguist-language=Java 
+*.html linguist-language=Vue 
 *.js linguist-language=Java 
 *.xml linguist-language=Vue
 *.css linguist-language=Vue 
