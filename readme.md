@@ -10,13 +10,15 @@
 
 
 
-![image-20240110194935186](E:\github\detection\DefectDetection\image-20240110194935186.png)
+![image-20240110194935186](img/image-20240110194935186.png)
 
 
 
+![1](img/1.gif)
 
+![2](img/2.gif)
 
-
+![3](img/3.gif)
 
 # 操作手册
 
